@@ -6,8 +6,7 @@ Filename: drill4.js
 */
 
 /* global $ */
-/*global 'toggle'*/
-/*global "slow"*/
+
 
 //displays the next element after the current target
 function display(event) {
