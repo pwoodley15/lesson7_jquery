@@ -13,8 +13,7 @@ Paul Woodley
 Displays elements containing the ingredients and instructions to a recipe when the user clicks the associated header on the webpage.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwoodley15.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. The jQuery statement "after()" inserts content after the selected elements.
